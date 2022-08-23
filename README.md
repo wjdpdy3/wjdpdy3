@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Ji Hyeon Han
+
+## :computer: Tech Stcks :computer:
+<img alt="#6DB33F" src="https://img.shields.io/badge/black?style=for-the-badge&logo=Spring Boot&logoColor=#6DB33F">
+ 
+<img alt="brightgreen" src="/badge/-brightgreen-brightgreen">
